@@ -1,0 +1,1 @@
+const a=Symbol.for("genome-spy.performance-profiler");function o(){return globalThis[a]}function c(r,n){const e=o();if(!(e!=null&&e.enabled))return n();const t=performance.now();try{return n()}finally{e.addPhase(r,performance.now()-t)}}function f(r,n){var e;(e=o())==null||e.addCount(r,n)}export{f as c,o as g,c as m};
