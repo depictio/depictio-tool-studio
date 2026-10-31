@@ -1,0 +1,1 @@
+import{r as t}from"./index-1SwK6hm7.js";const e=t.createContext({});function r(){return t.useContext(e)}const n=t.createContext({});function s(){return t.useContext(n)}export{n as S,e as a,r as b,s as u};

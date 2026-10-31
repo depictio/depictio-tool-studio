@@ -1,0 +1,1 @@
+import{S as t}from"./JBrowseRenderer-CRbQaNa2.js";import{M as s}from"./index-BhmS_yER.js";const{getMismatches:r}=s;class o extends t{get(e){return e==="mismatches"?r(this.get("CIGAR")):super.get(e)}}export{o as S};
