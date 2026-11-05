@@ -1,0 +1,1 @@
+import{j as n}from"./index-B-u3R_yG.js";import{n as o}from"./JBrowseRenderer-Dc2jnzqb.js";const r=o()({flexContainer:{display:"flex",flexDirection:"column"}});function l({children:e,style:s}){const{classes:t}=r();return n.jsx("div",{className:t.flexContainer,style:s,children:e})}export{l as D};

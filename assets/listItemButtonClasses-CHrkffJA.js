@@ -1,0 +1,1 @@
+import{t as e,v as s}from"./JBrowseRenderer-Dc2jnzqb.js";function l(t){return e("MuiListItemButton",t)}const a=s("MuiListItemButton",["root","focusVisible","dense","alignItemsFlexStart","disabled","divider","gutters","selected"]);export{l as g,a as l};
